@@ -52,18 +52,6 @@ public class About_Us extends JFrame {
 		lblNewLabel.setBounds(31, 44, 200, 38);
 		panel.add(lblNewLabel);
 		
-		JLabel lblnazmusSadath = new JLabel("@Nazmus Sadath ");
-		lblnazmusSadath.setForeground(new Color(255, 160, 122));
-		lblnazmusSadath.setFont(new Font("Script MT Bold", Font.PLAIN, 17));
-		lblnazmusSadath.setBounds(31, 93, 200, 38);
-		panel.add(lblnazmusSadath);
-		
-		JLabel lblamorChandraNath = new JLabel("@Amor Chandra Nath");
-		lblamorChandraNath.setForeground(new Color(255, 160, 122));
-		lblamorChandraNath.setFont(new Font("Script MT Bold", Font.PLAIN, 17));
-		lblamorChandraNath.setBounds(31, 142, 200, 38);
-		panel.add(lblamorChandraNath);
-		
 		JLabel lblarfanulHaq = new JLabel("Dept. of CSTE");
 		lblarfanulHaq.setForeground(new Color(255, 160, 122));
 		lblarfanulHaq.setFont(new Font("Script MT Bold", Font.PLAIN, 17));
